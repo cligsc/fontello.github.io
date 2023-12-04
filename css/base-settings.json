@@ -1,8 +1,0 @@
-{
-  "baseUrl": "https://devapi.clinvigilant.com/api/api/",
-  "baseAuthUrl": "https://authdev.clinvigilant.com/api/api/",
-  "production": false,
-  "hmr": false,
-  "signalrUrl": "https://authdev.clinvigilant.com/api/api/MessageHub"
-  }
-  
