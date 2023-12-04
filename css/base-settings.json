@@ -3,5 +3,5 @@
   "baseAuthUrl": "http://localhost:52633/api/",
   "production": false,
   "hmr": false,
-  "signalrUrl": "http://localhost:52633/MessageHub"
-  }
+  
+}
