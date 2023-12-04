@@ -1,8 +1,7 @@
 {
-  "baseUrl": "https://devapi.clinvigilant.com/api/api/",
-  "baseAuthUrl": "https://authdev.clinvigilant.com/api/api/",
+  "baseUrl": "http://localhost:63980/api/",
+  "baseAuthUrl": "http://localhost:52633/api/",
   "production": false,
   "hmr": false,
-  "signalrUrl": "https://authdev.clinvigilant.com/api/api/MessageHub"
+  "signalrUrl": "http://localhost:52633/MessageHub"
   }
-  
